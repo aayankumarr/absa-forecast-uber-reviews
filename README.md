@@ -53,9 +53,5 @@ This repository presents an end-to-end pipeline for performing **Aspect-Based Se
 
 ---
 
-## 📁 Requirements
-
-```bash
-pip install -r requirements.txt
 
 
