@@ -6,10 +6,10 @@ This repository presents an end-to-end pipeline for performing **Aspect-Based Se
 
 ## 📌 Project Highlights
 
--  **Aspect Extraction** using BERT-Tagger and Contrastive Attention
--  **Sentiment Classification** using fine-tuned RoBERTa (aspect + sentence)
+-  **Aspect Extraction** using 3 techniques
+-  **Sentiment Classification** using fine-tuned RoBERTa (aspect + sentence) and Lexicon based method VADER
 -  **Sentiment Index Computation** (positive - negative score)
--  **Time-Series Forecasting** using LSTM for each aspect
+-  **Time-Series Forecasting** using LSTM,GRU,RNN and TCN for prominent aspects
 -  **Evaluation Metrics**: MSE, MAE, RMSE, R²
 -  **Clean Visualizations** of predictions, loss curves, and flowcharts
 
